@@ -13,6 +13,10 @@ C:\Users\IT25JanNS>echo test six > six.txt
 
 C:\Users\IT25JanNS>echo test seven > seven.txt
 
+
+Alphabetically:
+
+
 C:\Users\IT25JanNS>dir
  Volume in drive C is Windows
  Volume Serial Number is 6214-1ED6
@@ -46,6 +50,10 @@ C:\Users\IT25JanNS>dir
                8 File(s)      1,817,499 bytes
               16 Dir(s)  828,818,841,600 bytes free
 
+
+By Size:
+
+
 C:\Users\IT25JanNS>dir/o:s
  Volume in drive C is Windows
  Volume Serial Number is 6214-1ED6
@@ -78,6 +86,10 @@ C:\Users\IT25JanNS>dir/o:s
 03/21/2025  02:57 PM         1,817,416 processinfo.html
                8 File(s)      1,817,499 bytes
               16 Dir(s)  828,818,669,568 bytes free
+
+
+By creation time :
+
 
 C:\Users\IT25JanNS>dir /o:d
  Volume in drive C is Windows
