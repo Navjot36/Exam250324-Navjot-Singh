@@ -5,5 +5,6 @@
 2. [lifeware.com](https://www.lifewire.com/dir-command-4050018).
 
 ## Comment on the websites.
-The first website explains the 'dir' command very efficiently long with related examples and links.
-The second website provides more advanced options for sorting and filtering results. 
+a)The first website explains the 'dir' command very efficiently long with related examples and links.
+
+b)The second website provides more advanced options for sorting and filtering results. 
