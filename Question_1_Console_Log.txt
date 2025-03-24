@@ -1,0 +1,124 @@
+
+C:\Users\IT25JanNS>echo test one > one.txt
+
+C:\Users\IT25JanNS>echo test two > two.txt
+
+C:\Users\IT25JanNS>echo test three > three.txt
+
+C:\Users\IT25JanNS>echo test four > four.txt
+
+C:\Users\IT25JanNS>echo test five > five.txt
+
+C:\Users\IT25JanNS>echo test six > six.txt
+
+C:\Users\IT25JanNS>echo test seven > seven.txt
+
+C:\Users\IT25JanNS>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 6214-1ED6
+
+ Directory of C:\Users\IT25JanNS
+
+03/24/2025  01:23 PM    <DIR>          .
+02/21/2025  01:33 PM    <DIR>          ..
+11/17/2023  11:09 PM    <DIR>          .ms-ad
+03/12/2025  10:11 AM    <DIR>          .VirtualBox
+01/14/2025  09:28 AM    <DIR>          Contacts
+01/24/2025  09:37 AM    <DIR>          Documents
+03/19/2025  10:05 AM    <DIR>          Downloads
+01/14/2025  09:28 AM    <DIR>          Favorites
+03/24/2025  01:22 PM                12 five.txt
+03/24/2025  01:22 PM                12 four.txt
+01/14/2025  09:28 AM    <DIR>          Links
+01/14/2025  09:28 AM    <DIR>          Music
+03/24/2025  01:22 PM                11 one.txt
+02/12/2025  09:41 AM    <DIR>          OneDrive
+02/10/2025  10:36 AM    <DIR>          OneDrive - lbpsb.qc.ca
+01/14/2025  03:33 PM    <DIR>          Pictures
+03/21/2025  02:57 PM         1,817,416 processinfo.html
+01/14/2025  09:28 AM    <DIR>          Saved Games
+01/15/2025  10:30 AM    <DIR>          Searches
+03/24/2025  01:23 PM                13 seven.txt
+03/24/2025  01:22 PM                11 six.txt
+03/24/2025  01:22 PM                13 three.txt
+03/24/2025  01:22 PM                11 two.txt
+01/15/2025  09:25 AM    <DIR>          Videos
+               8 File(s)      1,817,499 bytes
+              16 Dir(s)  828,818,841,600 bytes free
+
+C:\Users\IT25JanNS>dir/o:s
+ Volume in drive C is Windows
+ Volume Serial Number is 6214-1ED6
+
+ Directory of C:\Users\IT25JanNS
+
+03/24/2025  01:23 PM    <DIR>          .
+02/21/2025  01:33 PM    <DIR>          ..
+11/17/2023  11:09 PM    <DIR>          .ms-ad
+03/12/2025  10:11 AM    <DIR>          .VirtualBox
+01/14/2025  09:28 AM    <DIR>          Contacts
+01/24/2025  09:37 AM    <DIR>          Documents
+03/19/2025  10:05 AM    <DIR>          Downloads
+01/14/2025  09:28 AM    <DIR>          Favorites
+01/15/2025  10:30 AM    <DIR>          Searches
+01/14/2025  09:28 AM    <DIR>          Saved Games
+01/14/2025  09:28 AM    <DIR>          Links
+01/14/2025  09:28 AM    <DIR>          Music
+01/15/2025  09:25 AM    <DIR>          Videos
+02/12/2025  09:41 AM    <DIR>          OneDrive
+02/10/2025  10:36 AM    <DIR>          OneDrive - lbpsb.qc.ca
+01/14/2025  03:33 PM    <DIR>          Pictures
+03/24/2025  01:22 PM                11 six.txt
+03/24/2025  01:22 PM                11 two.txt
+03/24/2025  01:22 PM                11 one.txt
+03/24/2025  01:22 PM                12 five.txt
+03/24/2025  01:22 PM                12 four.txt
+03/24/2025  01:22 PM                13 three.txt
+03/24/2025  01:23 PM                13 seven.txt
+03/21/2025  02:57 PM         1,817,416 processinfo.html
+               8 File(s)      1,817,499 bytes
+              16 Dir(s)  828,818,669,568 bytes free
+
+C:\Users\IT25JanNS>dir /o:d
+ Volume in drive C is Windows
+ Volume Serial Number is 6214-1ED6
+
+ Directory of C:\Users\IT25JanNS
+
+11/17/2023  11:09 PM    <DIR>          .ms-ad
+01/14/2025  09:28 AM    <DIR>          Contacts
+01/14/2025  09:28 AM    <DIR>          Favorites
+01/14/2025  09:28 AM    <DIR>          Music
+01/14/2025  09:28 AM    <DIR>          Saved Games
+01/14/2025  09:28 AM    <DIR>          Links
+01/14/2025  03:33 PM    <DIR>          Pictures
+01/15/2025  09:25 AM    <DIR>          Videos
+01/15/2025  10:30 AM    <DIR>          Searches
+01/24/2025  09:37 AM    <DIR>          Documents
+02/10/2025  10:36 AM    <DIR>          OneDrive - lbpsb.qc.ca
+02/12/2025  09:41 AM    <DIR>          OneDrive
+02/21/2025  01:33 PM    <DIR>          ..
+03/12/2025  10:11 AM    <DIR>          .VirtualBox
+03/19/2025  10:05 AM    <DIR>          Downloads
+03/21/2025  02:57 PM         1,817,416 processinfo.html
+03/24/2025  01:22 PM                12 five.txt
+03/24/2025  01:22 PM                11 one.txt
+03/24/2025  01:22 PM                12 four.txt
+03/24/2025  01:22 PM                11 two.txt
+03/24/2025  01:22 PM                13 three.txt
+03/24/2025  01:22 PM                11 six.txt
+03/24/2025  01:23 PM    <DIR>          .
+03/24/2025  01:23 PM                13 seven.txt
+               8 File(s)      1,817,499 bytes
+              16 Dir(s)  828,818,669,568 bytes free
+
+C:\Users\IT25JanNS>
+
+
+
+
+
+
+
+
+
